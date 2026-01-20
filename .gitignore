@@ -1,0 +1,17 @@
+node_modules/
+npm-debug.log*
+
+dist/
+release/
+build/
+
+.vscode/
+.DS_Store
+
+*.db
+*.sqlite
+
+.env
+
+tsconfig.tsbuildinfo
+logs/
