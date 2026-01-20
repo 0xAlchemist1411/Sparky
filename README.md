@@ -1,6 +1,6 @@
 # ⚡️ Sparky
 
-**Sparky** is a lightweight, premium AI assistant for macOS that lives in your floating window. Inspired by tools like Maccy, it allows you to instantly bring context from any app into a chat using a global shortcut.
+**Sparky** is a lightweight, AI assistant for macOS that lives in your floating window. it allows you to instantly bring context from any app into a chat using a global shortcut.
 
 ![Sparky Screenshot Placeholder](assets/sparky.png)
 
