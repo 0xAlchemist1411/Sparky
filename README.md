@@ -9,7 +9,7 @@
 -   **🎯 Instant Context (Control + I)**: Select any text in any macOS app and press `Control + I`. Sparky captures the text automatically and opens a chat prompt with that context pre-loaded.
 -   **💎 Premium Aesthetics**: A sleek, translucent, glassmorphism UI built with Tailwind CSS and Framer Motion. Supports macOS vibrancy effects.
 -   **🗂 Session Management**: Full chat history support powered by SQLite. Organizes your conversations into sessions with auto-generated titles.
--   **🤖 Powered by GPT-4o Mini**: Fast, intelligent, and cost-effective responses that help you code, write, or research on the fly.
+-   **🤖 Powered by GPT-4o**: Fast, intelligent, and cost-effective responses that help you code, write, or research on the fly.
 -   **🌓 Always on Top**: A floating panel that follows you across workspaces and stays above your active applications.
 -   **📦 Built-in Markdown**: Beautifully rendered code blocks, lists, and formatting for AI responses.
 
