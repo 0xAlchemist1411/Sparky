@@ -83,4 +83,4 @@ npm run dist
 MIT License. See `LICENSE` for details.
 
 ---
-Built with ❤️ by [Alchemist]
+Built with ❤️ by Alchemist
